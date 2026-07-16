@@ -1,10 +1,10 @@
 {
-    "version": "0.5.0",
+    "version": "0.6.1",
     "description": "A CLI for Lucee",
     "homepage": "https://lucli.dev/",
     "license": "MIT",
-    "url": "https://github.com/cybersonic/LuCLI/releases/download/v0.5.0/lucli-windows.zip",
-    "hash": "sha256:4c3742f492e806e43a859d35142982680dc340800fe45e5aa65cd791973d9e92",
+    "url": "https://github.com/cybersonic/LuCLI/releases/download/v0.6.1/lucli-windows.zip",
+    "hash": "sha256:30f971f6a00cb14ecc1bfb5eb101e31ac7cf49d052d1a682e50adfdfdfcb77d1",
     "extract_dir": "lucli.exe",
     "env_add_path": "bin",
     "checkver": {
